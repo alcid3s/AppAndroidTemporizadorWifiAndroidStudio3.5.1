@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WifiTemporizador</string>
+
+
+    <string name="Usuario">Utilisateur</string>
+    <string name="contraseña">Mot de passe</string>
+    <string name="Iniciar">Début</string>
+    <string name="Añadir">Ajouter un utilisateur</string>
+    <string name="Mostrar">Afficher les réseaux</string>
+    <string name="Login">S\'identifier</string>
+    <string name="Administrador">Administrateur</string>
+    <string name="anadir">Ajouter</string>
+</resources>
