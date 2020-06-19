@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WifiTemporizador.iml" filepath="$PROJECT_DIR$/WifiTemporizador.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WifiTemporizador.iml" filepath="$PROJECT_DIR$/WifiTemporizador.iml" group="WifiTemporizador" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="WifiTemporizador/app" />
     </modules>
   </component>
 </project>
